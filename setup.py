@@ -11,7 +11,7 @@ setup(
     description='Ahead-of-time interpreted all-language compiler in Python3',
     # long_description=long_description,
     author='Samimies',
-    url='https://github.com/SamimiesGames/silicium',
+    url='https://github.com/SamimiesGames/silicium-web',
     license='MIT',
     packages=find_packages(exclude=['tests', 'tests.*', 'examples']),
     # packages=find_packages(exclude=['tests', 'tests.*', 'examples']),

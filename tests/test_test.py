@@ -1,6 +1,5 @@
-import pytest
+import silicium
 
-from src import silicium
 
 class TestSiliciumWeb:
     def test_html(e):
